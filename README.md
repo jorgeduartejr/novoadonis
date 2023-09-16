@@ -1,2 +1,2 @@
 # novoadonis
-Brincando de adonis e aprendendo web
+Testando o adonis e fazendo uma API Rest
